@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FIbonacci:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FIbonacci_jar</output-path>
+    <root id="archive" name="FIbonacci.jar">
+      <element id="module-output" name="FIbonacci" />
+      <element id="module-test-output" name="FIbonacci" />
+    </root>
+  </artifact>
+</component>
